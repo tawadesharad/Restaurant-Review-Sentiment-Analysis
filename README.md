@@ -1,6 +1,6 @@
 # SENTIMENT ANALYSIS
 
-If you want to see the final result this is the link: https://sentiment-restaurant-reviews.herokuapp.com/predict
+If you want to see the final result this is the link: https://sentiment-restaurant-reviews.herokuapp.com/
 
 
 # Introduction
